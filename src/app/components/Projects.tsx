@@ -92,13 +92,21 @@ const personalProjects = [
     technologies: ["React", "Django", "Docker"],
     githubUrl: "https://github.com/Atishkumar98-Dev/Audacix-Hangman-Excercise",
   },
-  {
-    title: "BREAKROOM POS",
-    description:
-      "Point of Sale system built with Django for restaurant and retail management, featuring inventory tracking and order processing.",
-    technologies: ["Django", "PostgreSQL", "POS System"],
-    githubUrl: "https://github.com/Atishkumar98-Dev/Breakroom",
-  },
+ 
+{
+  title: "BREAKROOM POS",
+  description:
+    "A full-featured Point-of-Sale and business management platform built for an entertainment venue. Supports pool table slot booking with time-based pricing, dual PS5 session pricing, food & beverage ordering, automated billing with email delivery, expense tracking, and real-time business analytics through an owner dashboard.",
+  technologies: [
+    "Django",
+    "React",
+    "PostgreSQL",
+    "REST API",
+    "Email Integration"
+  ],
+  githubUrl: "https://github.com/Atishkumar98-Dev/Breakroom",
+},
+
   {
     title: "Smart PDF AI Training",
     description:
@@ -113,13 +121,7 @@ const personalProjects = [
     technologies: ["Django", "React Native", "Docker", "AWS", "Nginx"],
     githubUrl: "https://github.com/Atishkumar98-Dev/Foodly",
   },
-  {
-    title: "Portfolio",
-    description:
-      "Modern portfolio website built with Figma Make, React, and Vite JS, deployed on Vercel with smooth animations and responsive design.",
-    technologies: ["React", "Vite", "Figma Make", "Vercel"],
-    githubUrl: "https://react-portfolio-rho-puce.vercel.app/",
-  },
+  
 ];
 
 export function Projects() {
