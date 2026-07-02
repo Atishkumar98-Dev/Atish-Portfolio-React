@@ -84,7 +84,7 @@ export function Home() {
                 <Mail size={24} />
               </a>
               <a
-                href="https://github.com/atish98"
+                href="https://github.com/Atishkumar98-Dev"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-slate-400 hover:text-red-500 transition-colors"
