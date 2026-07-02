@@ -92,7 +92,7 @@ export function Home() {
                 <Github size={24} />
               </a>
               <a
-                href="https://linkedin.com/in/atish-kumar"
+                href="https://www.linkedin.com/in/atishkumar98"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-slate-400 hover:text-red-500 transition-colors"
